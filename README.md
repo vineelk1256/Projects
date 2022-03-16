@@ -2,6 +2,7 @@
 ## Articles 🌱
 
 - [Git Presentation](https://github.com/vineelk1256/Projects/blob/main/Git/2015-06-16-Brownbag-Git-Vineel-Public.pdf)
+- [Python Tutorial](https://github.com/vineelk1256/Projects/blob/main/Python/Python_Tutorial.pdf)
 - [What Does It Take To Write An Emulator In Java](https://github.com/vineelk1256/Projects/blob/main/articles/What-Does-It-Take-To-Write-An-Emulator-In-Java/Readme.md)
 - [UART - From AVR to Linux to Logic Analyzer](https://github.com/vineelk1256/Projects/blob/main/articles/UART-From-AVR-to-Linux-to-Logic-Analyzer/Readme.md)
 - [A Newbies Introduction To Compilation Process And Reverse Engineering](https://github.com/vineelk1256/Projects/blob/main/articles/a-newbies-introduction-to-compilation-process-and-reverse-engineering/Readme.md)
