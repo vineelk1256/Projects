@@ -1,4 +1,3 @@
-I ❤️ C | Operating Systems | Debuggers | Compilers | Electronics | FPGA | Virtual Machines | Microprocessors
 
 ## Articles 🌱
 
