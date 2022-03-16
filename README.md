@@ -1,6 +1,8 @@
 
 ## Articles 🌱
 
+- [Git Presentation](https://github.com/vineelk1256/Projects/blob/main/Git/2015-06-16-Brownbag-Git-Vineel-Public.pdf)
+- [What Does It Take To Write An Emulator In Java](https://github.com/vineelk1256/Projects/blob/main/articles/What-Does-It-Take-To-Write-An-Emulator-In-Java/Readme.md)
 - [UART - From AVR to Linux to Logic Analyzer](https://github.com/vineelk1256/Projects/blob/main/articles/UART-From-AVR-to-Linux-to-Logic-Analyzer/Readme.md)
 - [A Newbies Introduction To Compilation Process And Reverse Engineering](https://github.com/vineelk1256/Projects/blob/main/articles/a-newbies-introduction-to-compilation-process-and-reverse-engineering/Readme.md)
 - [How Do Breakpoints Work In Debuggers](https://github.com/vineelk1256/Projects/blob/main/articles/How-Do-Breakpoints-Work-In-Debuggers/Readme.md)
@@ -8,7 +10,6 @@
 - [PDB Files The Glue Between Binary File And Source Code](https://github.com/vineelk1256/Projects/blob/main/articles/PDB-Files-The-glue-between-the-binary-file-and-source-code/Readme.md)
 - [Signed Unsigned Integer Arithmetic In C](https://github.com/vineelk1256/Projects/blob/main/articles/Signed-Unsigned-Integer-Arithmetic-in-C/Readme.md)
 - [Usermode Breakpoints From Kernel Debugger](https://github.com/vineelk1256/Projects/blob/main/articles/Usermode-Breakpoints-From-KD/Readme.md)
-- [What Does It Take To Write An Emulator In Java](https://github.com/vineelk1256/Projects/blob/main/articles/What-Does-It-Take-To-Write-An-Emulator-In-Java/Readme.md)
 - [Compiler(MSVC) COMDAT/Opt:REF/Gy](https://github.com/vineelk1256/Projects/blob/main/articles/Compiler(MSVC)_COMDAT_OptREF_Gy/Readme.md)
 - [C Case Studies](https://github.com/vineelk1256/Projects/blob/main/articles/C-Case-Studies/Readme.md)
 - [PCI Express Basics 101](https://github.com/vineelk1256/Projects/blob/main/articles/PCI-Express-Basics-101/Readme.md)
