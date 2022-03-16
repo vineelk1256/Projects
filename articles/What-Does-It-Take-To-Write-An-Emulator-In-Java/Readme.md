@@ -1,4 +1,4 @@
-﻿# What Does It Take To Write An Emulator In Java?
+﻿# What Does It Take To Write An Emulator In Java/C#?
 
 # Introduction
 
